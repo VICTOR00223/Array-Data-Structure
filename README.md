@@ -19,7 +19,7 @@ A simple Java project demonstrating a **custom array data structure** with basic
 1. **Clone the repository**:
 
 ```bash
-https://github.com/VICTOR00223/array-manager-java.git
+https://github.com/VICTOR00223/Array-Data-Structure.git
 
 ```
 2. **Navigate to the src folder**:
