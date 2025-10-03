@@ -28,5 +28,5 @@ cd array-manager-java/src
 3. **Compile the Java files**:
 javac *.java
 
-4.**Run the program**:
+4. **Run the program**:
 java Main2
