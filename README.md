@@ -21,6 +21,7 @@ A simple Java project demonstrating a **custom array data structure** with basic
 ```bash
 git clone https://github.com/VICTOR00223/array-manager-java.git
 
+```
 2. **Navigate to the src folder**:
 cd array-manager-java/src
 
