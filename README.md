@@ -23,10 +23,13 @@ https://github.com/VICTOR00223/Array-Data-Structure.git
 
 ```
 2. **Navigate to the src folder**:
+   
 cd array-manager-java/src
 
 3. **Compile the Java files**:
+   
 javac *.java
 
 4. **Run the program**:
+   
 java Main2
